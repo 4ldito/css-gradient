@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+  background-color: #0f0f0f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.styleContainer {
+  width: 100%;
+}
+
+.styleButtonsContainer {
+  display: flex;
+  gap: 1rem;
+}
